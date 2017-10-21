@@ -1,22 +1,22 @@
-Option #3: Single Page App Project
+# Option #3: Single Page App Project
 
-For this project you can either start with the trivia quiz app we experimented with last month or you can try building your own single page application from scratch using Angular 2\.
+For this project you can either start with the trivia quiz app we experimented with last month or you can try building your own single page application from scratch using Angular.
 
-The Trivia App
+## The Trivia App
 
-Using the October Single Page app worksheet as a starting point, download and modify the quiz app we worked on that night.
+Using [the Single Page Application worksheet](http://bit.ly/CnCOctWork) as a starting point, download and modify the quiz app we worked on that night.
 
-*   Have a team member fork [https://github.com/KansasCityWomeninTechnology/trivia](https://github.com/KansasCityWomeninTechnology/trivia) and give other team members access so the entire team can work from the same starting point.
+1. Have a team member fork [github.com/KansasCityWomeninTechnology/trivia](https://github.com/KansasCityWomeninTechnology/trivia) and give other team members access so the entire team can work from the same starting point.
 
-*   Make sure all team members have the updated repository cloned to their local device and divvy up development tasks.
+2. Make sure all team members have the updated repository cloned to their local device and divvy up development tasks.
 
-*   Some ideas for ways you can modify the application include:
+3. Some ideas for ways you can modify the application include:
 
-    *   Add Angular routing to your application and based on the route change the category of questions displayed using the [API](https://cocktail-trivia-api.herokuapp.com/) (See part 2 of the homework section of October’s worksheet linked below for hints!)
+    1. Add more routes to your application and based on the route, change the category of questions displayed using the [API](https://cocktail-trivia-api.herokuapp.com/)
 
-    *   Add another component for navigation (make sure you add an about page to navigate to!)
+    2. Add another component for navigation (make sure you add an about page to navigate to!)
 
-    *   Add images to make it more fun!
+    3. Add images to make it more fun!
 
 ![](export/assets/image19png.png)angular_solidBlack.png
 
