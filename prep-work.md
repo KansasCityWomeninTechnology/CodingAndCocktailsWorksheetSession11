@@ -34,18 +34,38 @@ As a team, create a new GitHub repository.
 
 Share the repository with all team members including your mentor/technical architect.
 
+{% hint style='tip' %}
+Not sure how to add Git collaborators? [http://bit.ly/CnCGHCollab](http://bit.ly/CnCGHCollab)
+{% endhint %}
+
 Make sure each team member has the repository cloned to your local device in your CodingAndCocktails folder you created when you worked through the tools document.
 
-| **Helpful tips:** |
-| --- |
+{% hint style='tip' %}
+#### Command line woes?
+Revisit the command line worksheet from March:
+[bit.ly/CnCMarWork](http://bit.ly/CnCMarWork)
+  - Your home directory is:
+    - Mac: `/users/<yourUsername>`
+    - Windows: `C:/Users/<yourUsername>`
+  - Command to change folders: `cd <folderToGoTo>`
+  - Command to make a folder: `mkdir <newFolder>`
+  - You can also use **~** as a shortcut in your CLI for your home directory: ``cd ~``
+{% endhint %}
 
-Step 4: Choose one of three project models
+### 5. Choose one of three project models
 
 For more details on how to proceed with each option see step 4 below
 
 * **Option 1:** Using a template from [Templated.co](https://templated.co/) as a starting point, download the template and modify and style using HTML and CSS. Add some interactivity with JavaScript too!
 
-* **Option 2:** Use a Yeoman scaffold like the one we used in the Front End Architecture session in September to build out your site.
+* **Option 2:** Use a Yeoman scaffold like the one we used in the Front End Architecture session to build out your site.
+
+{% hint style='tip' %}
+##### Yeoman to the rescue!
+![](/assets/image13png.png)
+{% endhint %}
+
+
 
 | **Yeoman to the rescue!**![](export/assets/image13png.png)plainicon.com-50337-512px-565.png |
 | --- |
