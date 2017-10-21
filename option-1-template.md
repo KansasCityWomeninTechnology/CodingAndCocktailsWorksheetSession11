@@ -61,7 +61,6 @@ Check out some examples:
     {% endhint %}
 
 #### Feel free to add more pages to your site as well:
-
     * A contact page
 
     * An about the team page
