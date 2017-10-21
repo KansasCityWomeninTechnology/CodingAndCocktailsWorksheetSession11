@@ -62,20 +62,17 @@ For more details on how to proceed with each option see step 4 below
 
 {% hint style='tip' %}
 ##### Yeoman to the rescue!
-<img src="assets/image13png.png" style="float: left; margin: 0px 15px 15px 0px; width:125px;">
+Revisit the front-end architecture worksheet: [http://bit.ly/CnCMayWork](http://bit.ly/CnCMayWork)
 {% endhint %}
 
+* **Option 3:** Build out a single page application similar to the trivia app we built in the session on SPA’s. You could start with the framework of the trivia app from the session worksheet and expand on it, or spin your own!
 
+{% hint style='tip' %}
+##### Single Page Applications
+Revisit the SPA worksheet: [http://bit.ly/CnCOctWork](http://bit.ly/CnCOctWork)
+{% endhint %}
 
-| **Yeoman to the rescue!**![](export/assets/image13png.png)plainicon.com-50337-512px-565.png |
-| --- |
-
-* **Option 3:** Build out a single page application similar to the trivia app we built in October’s session on SPA’s. You could start with the framework of the trivia app from the session worksheet and expand on it, or spin your own!
-
-| **Single Page Applications**![](export/assets/image14png.png)angular_solidBlack.png |
-| --- |
-
-Step 5: Divvy up the work and start building!
+### 6. Divvy up the work and start building!
 
 How you divvy up responsibilities is up to your team and what feels comfortable. Ask your mentor/technical architect about pair programming vs. Git collaboration. You will need to start with a GitHub repository for each project no matter what model you’ve chosen. This will make your team collaboration much easier!
 
