@@ -48,8 +48,12 @@ Alternatively you can download fonts and add them to the fonts folder within you
 
 9. Incorporate a box slider ([npmjs.com/package/bxslider](https://www.npmjs.com/package/bxslider))
 
-| **Need Inspiration ?**![](export/assets/image15png.png)201-512.png |
-| --- |
+    {% hint style='tip' %}
+##### Need Inspiration?
 
-*   Add some interactivity (like a button or an effect) using jQuery or straight Javascript.
+Check out some examples:
+[bsxlider.com/examples](http://bsxlider.com/examples)
+    {% endhint %}
+
+10. Add some interactivity (like a button or an effect) using jQuery or straight Javascript.
 
