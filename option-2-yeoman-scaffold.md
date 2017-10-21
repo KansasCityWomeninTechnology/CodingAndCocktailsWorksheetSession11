@@ -10,7 +10,7 @@
 
 2. Choose a generator to use for the night. There are thousands, so feel free to browse and select the one that feels right to you but we’d suggest the option below. Instructions for how to download and install it are included within the Readme.md file of the GitHub repo.
 
-    *   **Yeoman webapp generator** ([https://github.com/yeoman/generator-webapp](https://github.com/yeoman/generator-webapp))
+    *   [Yeoman webapp generator (https://github.com/yeoman/generator-webapp)
 
 3. Load these files into the Git repository you created above and push them up to GitHub so the entire team can work from the same starting point.
 
