@@ -31,12 +31,6 @@ Want to be more efficient at working with your computer?
 [Click here to see our list of Helpful Keyboard Shortcuts!](/reference-helpful-keyboard-shortcuts.md)
 {% endhint %}
 
-Look for these formatting hints throughout the workbook:
-* _src/directory/file.ts_ - **File paths and names**
-* `code block` - **Code to use or reference in your project**
-* ![](/images/windows-icon.png) - **Attention Windows Users: info specific to windows machines**
-
-Project
 
 
 
@@ -47,13 +41,3 @@ Project
 
 
 
-
-Step 6: Show off what you have accomplished!
-
-It doesn’t matter how far you get, we want you to show off your team’s efforts. Tell us what you found easier or tougher than expected. Tell us where you got stuck, or about an aha! moment you had!
-
-*   Publish the project to GitHub Pages: [https://pages.github.com/](https://pages.github.com/)
-
-    *   **For option 3 projects** see part 1 of the homework section of October’s worksheet linked above for a how-to.
-
-*   Share the link to your project in slack ([kcwit.slack.com](http://kcwit.slack.com) in the #codingandcocktails channel!)
