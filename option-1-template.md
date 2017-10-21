@@ -44,10 +44,21 @@ Check out our CSS cheat sheet at the end of the CSS session's worksheet: [coding
 
 9. Try adding some jQuery to your page - maybe include a button that reacts when you click it by displaying a message.
 
-**Extra Credit:** Add a section to your web site that includes a box slider
+    {% hint style='tip' %}
+##### Looking for a refresher?
 
-| **Illegal nested table :** Looking for a refresher?plainicon.com-50242-256px-506.pngRevisit the jQuery worksheet from May: bit.ly/CnCjQueryWS | **Illegal nested table :** Need Inspiration ?201-512.pngCheck out some examples: bsxlider.com/examples |
-| --- | --- |
+Revisit the jQuery worksheet: 
+[bit.ly/CnCJunWork](http://bit.ly/CnCJunWork)
+    {% endhint %}
+
+10. **Extra Credit:** Add a section to your web site that includes a box slider
+
+    {% hint style='tip' %}
+##### Need Inspiration?
+
+Check out some examples: 
+[bsxlider.com/examples](http://bsxlider.com/examples)
+    {% endhint %}
 
 #### Feel free to add more pages to your site as well - a contact page, an about the team page, etc!
 
