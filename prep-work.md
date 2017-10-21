@@ -62,7 +62,7 @@ For more details on how to proceed with each option see step 4 below
 
 {% hint style='tip' %}
 ##### Yeoman to the rescue!
-![](/assets/image13png.png)
+<img src="assets/image13png.png" style="float: left; margin: 0px 15px 15px 0px; width:125px;">
 {% endhint %}
 
 
