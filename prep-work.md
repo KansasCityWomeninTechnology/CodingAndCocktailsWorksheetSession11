@@ -60,17 +60,17 @@ For more details on how to proceed with each option see step 4 below
 
 * **Option 2:** Use a Yeoman scaffold like the one we used in the Front End Architecture session to build out your site.
 
-{% hint style='tip' %}
+  {% hint style='tip' %}
 ##### Yeoman to the rescue!
 Revisit the front-end architecture worksheet: [http://bit.ly/CnCMayWork](http://bit.ly/CnCMayWork)
-{% endhint %}
+  {% endhint %}
 
 * **Option 3:** Build out a single page application similar to the trivia app we built in the session on SPA’s. You could start with the framework of the trivia app from the session worksheet and expand on it, or spin your own!
 
-{% hint style='tip' %}
+  {% hint style='tip' %}
 ##### Single Page Applications
 Revisit the SPA worksheet: [http://bit.ly/CnCOctWork](http://bit.ly/CnCOctWork)
-{% endhint %}
+  {% endhint %}
 
 ### 6. Divvy up the work and start building!
 
