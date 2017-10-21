@@ -1,3 +1,5 @@
+<img src="assets/yeoman.png" style="display: block; margin-left: auto; margin-right: auto; height:125px;">
+
 # Option #2: Use Yeoman to scaffold a project:
 
 1. Make sure you have Yeoman installed.
