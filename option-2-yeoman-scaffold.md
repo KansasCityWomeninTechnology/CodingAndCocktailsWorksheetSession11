@@ -26,7 +26,7 @@ Alternatively you can download fonts and add them to the fonts folder within you
 
 6. Pick some images related to your theme and save them into the images folder. Some good image sources include:
 
-    *[flickr.com](https://www.flickr.com/): _change the filter from “Any license” to “Commercial use allowed”_
+    * [flickr.com](https://www.flickr.com/): _change the filter from “Any license” to “Commercial use allowed”_
     
     * [pexels.com](https://www.pexels.com/)
     
