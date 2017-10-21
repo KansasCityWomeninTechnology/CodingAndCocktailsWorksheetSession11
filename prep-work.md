@@ -8,33 +8,33 @@ If this is your first time joining us for Coding & Cocktails, you'll want to [in
 
 If you have a tip that helped you with a step on the worksheet, you can easily share it with the group in Slack. Or if there are any issues with the worksheet [we make typos or there's an update to a tool that we didn't catch before the session], we may post updates in Slack. Plus, after class is over, Slack becomes a tool for you to gain access to mentors as you go through the homework, or any other questions that arise.
 
-Step 1: Pick a theme
+### 2. Pick a theme
 
 A theme will help focus your work. This can be anything you can dream up but if you need some inspiration, here are some ideas to get your team talking. You don’t have to limit yourself to these.
 
-* What you have learned at Coding &amp; Cocktails
+* What you have learned at Coding & Cocktails
 
 * Favorite Sports Team
 
 * Favorite Hobby
 
-* Team Website: Introduce who you are &amp; what your team is about
+* Team Website: Introduce who you are & what your team is about
 
 * Build out a bar website with a tasty cocktail menu
 
 * Personal portfolio site for craft projects
 
-Step 2: Draw a picture of what you want your site to look like
+### 3. Draw a picture of what you want your site to look like
 
-Before you start writing code, you should have an idea of the end game. Draw it out on paper so that your entire team knows what you are working towards.
+Before you start writing code, you should have an idea of the end game. Draw it out on paper so that your entire team knows what you are working towards. This can be both the look and feel and how the user should interact with and navigate the site, sometimes called a sitemap.
 
-Step 3: Set up a GitHub repository
+### 4. Set up a GitHub repository
 
-* As a team, create a new GitHub repository.
+As a team, create a new GitHub repository.
 
-* Share the repository with all team members including your mentor/technical architect.
+Share the repository with all team members including your mentor/technical architect.
 
-* Make sure each team member has the repository cloned to your local device in your CodingAndCocktails folder you created when you worked through the tools document.
+Make sure each team member has the repository cloned to your local device in your CodingAndCocktails folder you created when you worked through the tools document.
 
 | **Helpful tips:** |
 | --- |
