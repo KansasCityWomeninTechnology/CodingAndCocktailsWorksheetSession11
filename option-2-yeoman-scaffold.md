@@ -38,15 +38,15 @@ Alternatively you can download fonts and add them to the fonts folder within you
 
 8. Select a library from npm and use it to add some functionality
 
-    *   This could be using lodash ([https://www.npmjs.com/package/lodash](https://www.npmjs.com/package/lodash)) to iterate over an array
+    *   This could be using lodash ([npmjs.com/package/lodash](https://www.npmjs.com/package/lodash)) to iterate over an array
 
-    *   Maybe grab moment ([https://www.npmjs.com/package/moment](https://www.npmjs.com/package/moment)) and display some relevant dates and times
+    *   Maybe grab moment ([npmjs.com/package/moment](https://www.npmjs.com/package/moment)) and display some relevant dates and times
 
-    *   Create a simple graph or data vis with C3 ([https://www.npmjs.com/package/c3](https://www.npmjs.com/package/c3))
+    *   Create a simple graph or data visualization with C3 ([npmjs.com/package/c3](https://www.npmjs.com/package/c3))
 
-    *   Bring in font-awesome for icons to use ([https://www.npmjs.com/package/font-awesome](https://www.npmjs.com/package/font-awesome))
+    *   Bring in font-awesome for icons to use ([npmjs.com/package/font-awesome](https://www.npmjs.com/package/font-awesome))
 
-*   *   Incorporate a box slider ([https://www.npmjs.com/package/bxslider](https://www.npmjs.com/package/bxslider))
+9. Incorporate a box slider ([npmjs.com/package/bxslider](https://www.npmjs.com/package/bxslider))
 
 | **Need Inspiration ?**![](export/assets/image15png.png)201-512.png |
 | --- |
