@@ -16,7 +16,12 @@
 
 4. Make sure all team members have the updated repository cloned to their local device and divvy up development tasks.
 
-5. Choose some fonts from google fonts to use in your project
+5. Choose some fonts from [Google Fonts](https://fonts.google.com/) to use in your project
+
+If you need some help choosing fonts that look nice together check out [fontpair.co](http://fontpair.co/)
+
+Alternatively you can download fonts and add them to the fonts folder within your scaffolded project
+
 
 | **Helpful tip:** |
 | --- |
@@ -31,7 +36,7 @@
     
     * [pixabay.com](https://pixabay.com/)
 
-7. Style your page with a _styles.css_ file. If you need help with color pallettes check out [https://color.adobe.com/explore/newest/](https://color.adobe.com/explore/newest/)
+7. Style your page with a _styles.css_ file. If you need help with color pallettes check out [color.adobe.com/explore/newest](https://color.adobe.com/explore/newest/)
 
 8. Select a library from npm and use it to add some functionality
 
