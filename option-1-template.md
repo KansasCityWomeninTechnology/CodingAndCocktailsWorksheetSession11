@@ -1,3 +1,5 @@
+<img src="assets/html.png" style="display: block; margin-left: auto; margin-right: auto; height:125px;">
+
 # Option #1: Build a Website from a Template
 
 1. Start here: [Templated.co](http://templated.co)
