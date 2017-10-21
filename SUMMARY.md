@@ -1,3 +1,7 @@
 # Summary
 
-* [Session 11: Cocktail Camp Micro-hackathon](README.md)
+* [Overview](README.md)
+* Option 1: Template
+* [Reference: Helpful Keyboard Shortcuts](reference-helpful-keyboard-shortcuts.md)
+* Survey
+
