@@ -1,3 +1,4 @@
+<img src="assets/angular.png" style="display: block; margin-left: auto; margin-right: auto; height:125px;">
 # Option #3: Single Page App Project
 
 For this project you can either start with the trivia quiz app we experimented with last month or you can try building your own single page application from scratch using Angular.
