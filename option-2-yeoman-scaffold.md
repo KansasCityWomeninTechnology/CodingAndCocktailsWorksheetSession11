@@ -17,14 +17,12 @@
 4. Make sure all team members have the updated repository cloned to their local device and divvy up development tasks.
 
 5. Choose some fonts from [Google Fonts](https://fonts.google.com/) to use in your project
-
+    
+    {% hint style='tip' %}
 If you need some help choosing fonts that look nice together check out [fontpair.co](http://fontpair.co/)
 
 Alternatively you can download fonts and add them to the fonts folder within your scaffolded project
-
-
-| **Helpful tip:** |
-| --- |
+    {% endhint %}
 
 6. Pick some images related to your theme and save them into the images folder. Some good image sources include:
 
@@ -36,7 +34,7 @@ Alternatively you can download fonts and add them to the fonts folder within you
     
     * [pixabay.com](https://pixabay.com/)
 
-7. Style your page with a _styles.css_ file. If you need help with color pallettes check out [color.adobe.com/explore/newest](https://color.adobe.com/explore/newest/)
+7. Style your page with a _styles.css_ file. If you need help with color pallettes check out [color.adobe.com/explore/newest](https://color.adobe.com/explore/newest/) or [colorhunt.co](http://colorhunt.co/)
 
 8. Select a library from npm and use it to add some functionality
 
