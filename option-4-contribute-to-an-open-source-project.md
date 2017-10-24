@@ -22,4 +22,4 @@ Be sure to read up on how to contribute to an Open Source project.  The projects
 
 4. Follow the contributing submission process for the project to contribute your code back to the project.
 
-    Be sure you follow any testing and d standards the project sets forth! 
+    Be sure you follow any testing and linting standards the project sets forth! 
