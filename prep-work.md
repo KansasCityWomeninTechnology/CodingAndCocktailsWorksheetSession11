@@ -71,6 +71,8 @@ Revisit the front-end architecture worksheet: [http://bit.ly/CnCMayWork](http://
 ##### Single Page Applications
 Revisit the SPA worksheet: [http://bit.ly/CnCOctWork](http://bit.ly/CnCOctWork)
   {% endhint %}
+  
+* **Option 4:** Build out your code portfolio by making a contribution to an Open Source project.  Having this on your resume and the experience working with other developers on an existing project is a great way to show your skills and learn what it is like to be a developer on an existing project!
 
 ### 6. Divvy up the work and start building!
 
