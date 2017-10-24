@@ -1,6 +1,6 @@
 # Option 4: Contribute to Open Source
 
-Be sure to read up on how to contribute to an Open Source project.  The projects will often contain a CONTRIBUTING.md file on how to go through the process.  Since the contribution can come from only one GitHub account you may want to consider each working on your own contribution but maybe to the same project?
+Be sure to read up on how to contribute to an Open Source project.  The projects will often contain a CONTRIBUTING.md file on how to go through the process.  Since the contribution can come from only one GitHub account you may want to consider each working on your own contribution but maybe to the same project.
 
 1. Find a project to contribute to. Some good resources to browse for finding projects include: 
 
