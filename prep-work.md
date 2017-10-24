@@ -52,9 +52,9 @@ Revisit the command line worksheet from March:
   - You can also use **~** as a shortcut in your CLI for your home directory: ``cd ~``
 {% endhint %}
 
-### 5. Choose one of three project models
+### 5. Choose one of four project models
 
-For more details on how to proceed with each option see step 4 below
+For more details on how to proceed with each option, view that specific options page in the GitBook.
 
 * **Option 1:** Using a template from [Templated.co](https://templated.co/) as a starting point, download the template and modify and style using HTML and CSS. Add some interactivity with JavaScript too!
 
