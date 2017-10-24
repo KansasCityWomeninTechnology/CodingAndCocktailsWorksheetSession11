@@ -62,7 +62,8 @@ Check out some examples:
 [bsxlider.com/examples](http://bsxlider.com/examples)
     {% endhint %}
 
-#### Feel free to add more pages to your site as well:
+11. Feel free to add more pages to your site as well!  Some ideas might include:
+    
     * A contact page
 
     * An about the team page
