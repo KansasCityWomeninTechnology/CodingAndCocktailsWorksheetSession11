@@ -35,6 +35,11 @@ As a team, create a new GitHub repository.
 Share the repository with all team members including your mentor/technical architect.
 
 {% hint style='tip' %}
+##### Git to it!
+Revisit the version control worksheet: [http://bit.ly/CnCAprWork](http://bit.ly/CnCAprWork)
+{% endhint %}
+
+{% hint style='tip' %}
 Not sure how to add Git collaborators? [http://bit.ly/CnCGHCollab](http://bit.ly/CnCGHCollab)
 {% endhint %}
 
