@@ -32,7 +32,7 @@ Before you start writing code, you should have an idea of the end game. Draw it 
 
 As a team, create a new GitHub repository.
 
-Share the repository with all team members including your mentor/technical architect.
+Add all team members as collaborators on the repository including your mentor/technical architect.
 
 {% hint style='tip' %}
 ##### Git to it!
@@ -102,18 +102,18 @@ How you divvy up responsibilities is up to your team and what feels comfortable.
 5. Add a name for your workspace - it can be anything you like. You do not need a description, but feel free to add one if you like.
 
 6. Leave your workspace as **Public**.
-8. In the Clone from Git or Mercurial URL section, add the link to the GitHub repository that your team created in Step 4 above.
 
+7. In the Clone from Git or Mercurial URL section, add the link to the GitHub repository that your team created in Step 4 above.
 
-8. Click on the **Create Workspace** button.
+8. In the template section select the appropriate option (likely either HTML 5 or Node.js).
+
+9. Click on the **Create Workspace** button.
 
   Cloud9 will take a minute and create your workspace here.
 
-9. When the workspace opens, click on the small x on the right side of the tab that says `[M]/README.md` to clear your workspace.
+10. When the workspace opens, click on the small x on the right side of the tab that says `[M]/README.md` to clear your workspace.
 
-10. On the left side project pane, right click on the _client_ folder choose **Delete**.  Then confirm Yes you want to continue. Repeat for the _package.json_, _README.md_, and _server.js_ files.  
-
-9. We need to update the version of Node.js that Cloud9 uses by default. We'll use a tool called **Node Version Manager** to use version 8. In the terminal section of your workspace (that's the bottom portion with the `~/worspace $` prompt), type: `nvm install 8`
+12. We need to update the version of Node.js that Cloud9 uses by default. We'll use a tool called **Node Version Manager** to use version 8. In the terminal section of your workspace (that's the bottom portion with the `~/worspace $` prompt), type: `nvm install 8`
 
   ![](assets/images/c9_terminal.png)
 
@@ -122,21 +122,9 @@ How you divvy up responsibilities is up to your team and what feels comfortable.
  To make the terminal section bigger, hover over the top line of the terminal section with your mouse - it will change to an up-down arrow icon and then you can drag up which will also make the file editing area smaller.
  {% endhint %}
 
-10. If we leave Cloud9 and come back to this workspace, the version of Node.js resets, so let's change the default. In the terminal, type: `nvm alias default 8`
+13. If we leave Cloud9 and come back to this workspace, the version of Node.js resets, so let's change the default. In the terminal, type: `nvm alias default 8`
 
-11. Install the Angular CLI, type: `npm install -g @angular/cli`
-
- *This may take a minute or two to complete. Perfect excuse to grab yourself a drink!*
-
-12.  To confirm Angular CLI was installed, type: `ng version`. If you get a version number, you can move on!
-
-13. Continue with Part 1: Starting your Single Page App, Step 2.
-
- {% hint style='danger' %}
-Keep your eyes out for Cloud9 sections that you need to expand and follow as you go through the worksheet. 
-
-Any time the worksheet references Atom, iTerm2 or Git Bash, just know that your workspace is all inclusive and you'll just be working within Cloud9.
- {% endhint %}
+16. Continue with building your application!
 
 <!--endsec-->
 
