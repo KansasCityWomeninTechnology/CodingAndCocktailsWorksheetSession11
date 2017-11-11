@@ -1,6 +1,6 @@
 <div>
     <img src="assets/logo.png" style="float: left; margin: 0px 15px 15px 0px; height:125px;">
-    <h2 style="display:inline-block;margin-top:1em;">Coding &amp; Cocktails Session 10:</h2>
+    <h2 style="display:inline-block;margin-top:1em;">Coding &amp; Cocktails Session 11:</h2>
     <h3 style="margin-top:0;margin-bottom:2em;">Cocktail Camp Micro-hackathon</h3>
 </div>
 <hr>
