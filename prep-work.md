@@ -115,7 +115,7 @@ How you divvy up responsibilities is up to your team and what feels comfortable.
 
 12. We need to update the version of Node.js that Cloud9 uses by default. We'll use a tool called **Node Version Manager** to use version 8. In the terminal section of your workspace (that's the bottom portion with the `~/worspace $` prompt), type: `nvm install 8`
 
-  ![](assets/images/c9_terminal.png)
+  ![](assets/c9_terminal.png)
 
  {% hint style='tip' %}
 
