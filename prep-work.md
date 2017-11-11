@@ -87,7 +87,13 @@ If you're using a Chromebook, see the Cloud9 instructions below.
 
 How you divvy up responsibilities is up to your team and what feels comfortable. Ask your mentor/technical architect about pair programming vs. Git collaboration. You will need to start with a GitHub repository for each project no matter what model you’ve chosen. This will make your team collaboration much easier!
 
-<!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces id="chromebook"-->
+<!--sec data-title="Introduction" data-id="section0" data-show=true ces-->
+ 
+Insert markdown content here (you should start with h3 if you use heading).
+ 
+<!--endsec-->
+
+<!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section1" data-show=true data-collapse=true ces id="chromebook"-->
 
 1. Sign up for an account at [c9.io](https://c9.io)
 
