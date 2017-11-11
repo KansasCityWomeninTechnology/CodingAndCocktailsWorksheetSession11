@@ -87,8 +87,8 @@ If you're using a Chromebook, see the Cloud9 instructions below.
 
 How you divvy up responsibilities is up to your team and what feels comfortable. Ask your mentor/technical architect about pair programming vs. Git collaboration. You will need to start with a GitHub repository for each project no matter what model you’ve chosen. This will make your team collaboration much easier!
 
-<!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section1" data-show=true data-collapse=true ces id="chromebook"-->
-
+<!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
+ 
 1. Sign up for an account at [c9.io](https://c9.io)
 
   Note: It will ask you for credit card information, but you will not get charged for anything since we do not use features of Cloud9 that cost money. Ask a mentor for the Coding & Cocktails card for Cloud9.
@@ -125,7 +125,5 @@ How you divvy up responsibilities is up to your team and what feels comfortable.
 13. If we leave Cloud9 and come back to this workspace, the version of Node.js resets, so let's change the default. In the terminal, type: `nvm alias default 8`
 
 16. Continue with building your application!
-
+ 
 <!--endsec-->
-
-
