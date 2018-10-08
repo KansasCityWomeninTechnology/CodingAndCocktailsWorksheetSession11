@@ -12,9 +12,7 @@ Be sure to read up on how to contribute to an Open Source project.  The projects
     
     * [Whatcanidoformozilla](https://whatcanidoformozilla.org/#!/progornoprog/proglang/js/)
     
-    * [Openhatch.org](https://openhatch.org/search/?language=JavaScript&q=)
-    
-    * [Codemontage](https://www.codemontage.com/projects?tags=JavaScript)
+    * [Openhatch.org](https://openhatch.org/search/?language=JavaScript&q=)    
 
 2. Select an issue to work on. Many projects will have issues tagged with **beginner-friendly** or **good-first-contribution** tags.
 
