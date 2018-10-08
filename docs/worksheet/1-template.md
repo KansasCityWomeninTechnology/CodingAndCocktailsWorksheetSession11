@@ -1,8 +1,8 @@
-<img src="assets/html.png" style="display: block; margin-left: auto; margin-right: auto; height:125px;">
+<img src="images/html.png" style="display: block; margin-left: auto; margin-right: auto; height:125px;">
 
 # Option #1: Build a Website from a Template
 
-1. Start here: [Templated.co](http://templated.co)
+1. Start here: [Templated.co](https://templated.co)
 
 2. As a team, choose a template to download.
 
@@ -39,27 +39,27 @@ Check out this HTML cheat sheet: [websitesetup.org/HTML5-cheat-sheet.pdf](https:
         {% hint style='tip' %}
 ##### Need a CSS Refresher?
 
-Check out our CSS cheat sheet at the end of the CSS session's worksheet: [codingandcocktailskc.gitbooks.io/session-2-css/content/css_cheat_sheet.html](https://codingandcocktailskc.gitbooks.io/session-2-css/content/css_cheat_sheet.html)
+Check out our CSS cheat sheet at the end of the CSS session's worksheet: [codingandcocktailskc.gitbooks.io/session-2-css/content/references/css_cheat_sheet.html](https://codingandcocktailskc.gitbooks.io/session-2-css/content/references/css_cheat_sheet.html)
         {% endhint %}
 
 8. Be sure to test all the functions of your page - hyperlinks, images, and buttons and ensure that they work correctly and have some functionality when the user interacts.
 
-9. Try adding some jQuery to your page - maybe include a button that reacts when you click it by displaying a message.
+9. Try adding some event handlers to your page - maybe include a button that reacts when you click it by displaying a message.
 
     {% hint style='tip' %}
 ##### Looking for a refresher?
 
-Revisit the jQuery worksheet: 
-[bit.ly/CnCJunWork](http://bit.ly/CnCJunWork)
+Revisit the Programming Fundamentals 101 worksheet for an example of a click handler: 
+[bit.ly/CnCJunWork](https://bit.ly/CnCJunWork)
     {% endhint %}
 
-10. **Extra Credit:** Add a section to your web site that includes a box slider
+10. **Extra Credit:** Add a section to your web site that includes an image slider (use the [tiny-slider](https://github.com/ganlanyuan/tiny-slider) library)
 
     {% hint style='tip' %}
 ##### Need Inspiration?
 
-Check out some examples: 
-[bsxlider.com/examples](http://bsxlider.com/examples)
+Check out some examples with configuration settings: 
+[tiny-slider/tests](https://ganlanyuan.github.io/tiny-slider/tests/index.html)
     {% endhint %}
 
 11. Feel free to add more pages to your site as well!  Some ideas might include:

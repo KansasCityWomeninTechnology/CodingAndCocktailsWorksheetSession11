@@ -11,7 +11,6 @@ Tonight we are working on a team project as you would on a real-world developmen
 
 Keep it Simple! Work with your mentor (your team’s technical architect) to break up the tasks into smaller pieces. Make sure you take breaks! Walk around, clear your head. Have fun! This is not a competition.
 
-### Hints
 
 {% hint style='danger' %}
 While following along with the worksheet, type out the commands instead of doing a copy & paste (_unless instructed to copy & paste_) to avoid inadvertently using any incorrect characters.

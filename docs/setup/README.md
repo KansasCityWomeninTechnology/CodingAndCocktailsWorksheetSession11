@@ -1,7 +1,13 @@
-# Prep Work
+# Setup Instructions
 
 {% hint style='danger' %}
-If this is your first time joining us for Coding & Cocktails, you'll want to [install our tools](http://bit.ly/CnCTheTools) before you go any further.
+If this is your first time joining us for Coding & Cocktails, you'll want to [install our tools](https://bit.ly/CnCTheTools) before you go any further.
+{% endhint %}
+
+{% hint style='danger' %}
+If you are borrowing a Coding & Cocktails laptop, you can skip the tools installation. All the tools you need are already installed for you. If you need to install a new tool on the laptop for tonight, please contact a member of the Coding & Cocktails leadership team.
+
+Continue following the instructions on this page.
 {% endhint %}
 
 ### 1. <a href="https://kcwit.slack.com/messages/C0BGBKGG6">Click Here to Open Slack</a>
@@ -18,7 +24,7 @@ A theme will help focus your work. This can be anything you can dream up but if 
 
 * Favorite Hobby
 
-* Team Website: Introduce who you are & what your team is about
+* Team Website: Introduce who you are and what your team is about
 
 * Build out a bar website with a tasty cocktail menu
 
@@ -36,11 +42,11 @@ Add all team members as collaborators on the repository including your mentor/te
 
 {% hint style='tip' %}
 ##### Git to it!
-Revisit the version control worksheet: [http://bit.ly/CnCAprWork](http://bit.ly/CnCAprWork)
+Revisit the version control worksheet: [bit.ly/CnCAprWork](https://bit.ly/CnCAprWork)
 {% endhint %}
 
 {% hint style='tip' %}
-Not sure how to add Git collaborators? [http://bit.ly/CnCGHCollab](http://bit.ly/CnCGHCollab)
+Not sure how to add Git collaborators? [bit.ly/CnCGHCollab](https://bit.ly/CnCGHCollab)
 {% endhint %}
 
 Make sure each team member has the repository cloned to your local device in your CodingAndCocktails folder you created when you worked through the tools document.
@@ -48,13 +54,19 @@ Make sure each team member has the repository cloned to your local device in you
 {% hint style='tip' %}
 #### Command line woes?
 Revisit the command line worksheet from March:
-[bit.ly/CnCMarWork](http://bit.ly/CnCMarWork)
+[bit.ly/CnCMarWork](https://bit.ly/CnCMarWork)
   - Your home directory is:
     - Mac: `/users/<yourUsername>`
     - Windows: `C:/Users/<yourUsername>`
   - Command to change folders: `cd <folderToGoTo>`
   - Command to make a folder: `mkdir <newFolder>`
-  - You can also use **~** as a shortcut in your CLI for your home directory: ``cd ~``
+  - You can also use shortcuts in your CLI for your home directory
+    {% codetabs name="iTerm2", type="bash" -%} 
+cd ~
+   {%- language name="Cmder", type="bash" -%} 
+cd %USERPROFILE%
+   {%- endcodetabs %}
+     
 {% endhint %}
 
 ### 5. Choose one of four project models
@@ -67,63 +79,45 @@ For more details on how to proceed with each option, view that specific options 
 
   {% hint style='tip' %}
 ##### Yeoman to the rescue!
-Revisit the front-end architecture worksheet: [http://bit.ly/CnCMayWork](http://bit.ly/CnCMayWork)
+Revisit the front-end architecture worksheet: [bit.ly/CnCMayWork](https://bit.ly/CnCMayWork)
   {% endhint %}
 
 * **Option 3:** Build out a single page application similar to the trivia app we built in the session on SPA’s. You could start with the framework of the trivia app from the session worksheet and expand on it, or spin your own!
 
   {% hint style='tip' %}
 ##### Single Page Applications
-Revisit the SPA worksheet: [http://bit.ly/CnCOctWork](http://bit.ly/CnCOctWork)
+Revisit the SPA worksheet: [bit.ly/CnCOctWork](https://bit.ly/CnCOctWork)
   {% endhint %}
   
-* **Option 4:** Build out your code portfolio by making a contribution to an Open Source project.  Having this on your resume and the experience working with other developers on an existing project is a great way to show your skills and learn what it is like to be a developer on an existing project!
+* **Option 4:** Build out your code portfolio by making a contribution to an Open Source project.  Having this on your resume and the experience working with other developers on an existing project is a great way to show your skills and learn what it's like to be a developer on an existing project!
 
 ### 6. Divvy up the work and start building!
 
-{% hint style='danger' %}
-If you're using a Chromebook, see the Cloud9 instructions below.
-{% endhint %}
-
 How you divvy up responsibilities is up to your team and what feels comfortable. Ask your mentor/technical architect about pair programming vs. Git collaboration. You will need to start with a GitHub repository for each project no matter what model you’ve chosen. This will make your team collaboration much easier!
 
-<!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
- 
-1. Sign up for an account at [c9.io](https://c9.io)
+<!-- Trick markdown to give a little extra space -->
+## 
+**Now that you've selected what project to tackle and your team is set up for success go ahead and dive in! Learn something, explore, collaborate and most of all - Have Fun!**
 
-  Note: It will ask you for credit card information, but you will not get charged for anything since we do not use features of Cloud9 that cost money. Ask a mentor for the Coding & Cocktails card for Cloud9.
+## Helpful tips as you work through the worksheet {#tips}
 
-2. Confirm your account from your email and log in to Cloud9.
+{% hint style='tip' %}
+View the worksheet and your IDE in split screen. 
 
-3. Select **Workspaces** from the left side panel if you are not already there.
+For Windows users, use `windows key` + `left arrow` or `windows` + `right arrow` to resize the application and position to the left or right half of your screen.
 
-4. Choose **Create a new workspace**.
+For Mac users, hold down the full-screen button in the upper-left corner of a window to shrink and position to the left or right side of the screen. Release the button, then click another window to begin using both windows side by side.
 
-5. Add a name for your workspace - it can be anything you like. You do not need a description, but feel free to add one if you like.
+Mentors are happy to help!
+{% endhint %}
 
-6. Leave your workspace as **Public**.
+{% hint style='working' %}
+Did you know you can collapse the table of contents for worksheets?
 
-7. In the Clone from Git or Mercurial URL section, add the link to the GitHub repository that your team created in Step 4 above.
+Click on the hamburger menu (<i class="fa fa-bars" aria-hidden="true"></i>) at the top of the page to toggle the table of contents. You can also use the keyboard shortcut `s`.
+{% endhint %}
 
-8. In the template section select the appropriate option (likely either HTML 5 or Node.js).
+{% hint style='working' %}
+Did you know you can customize font size and color of the worksheets to make it easier for you to see?
 
-9. Click on the **Create Workspace** button.
-
-  Cloud9 will take a minute and create your workspace here.
-
-10. When the workspace opens, click on the small x on the right side of the tab that says `[M]/README.md` to clear your workspace.
-
-12. We need to update the version of Node.js that Cloud9 uses by default. We'll use a tool called **Node Version Manager** to use version 8. In the terminal section of your workspace (that's the bottom portion with the `~/worspace $` prompt), type: `nvm install 8`
-
-  ![](assets/c9_terminal.png)
-
- {% hint style='tip' %}
-
- To make the terminal section bigger, hover over the top line of the terminal section with your mouse - it will change to an up-down arrow icon and then you can drag up which will also make the file editing area smaller.
- {% endhint %}
-
-13. If we leave Cloud9 and come back to this workspace, the version of Node.js resets, so let's change the default. In the terminal, type: `nvm alias default 8`
-
-16. Continue with building your application!
- 
-<!--endsec-->
+Click on the font menu (<i class="fa fa-font" aria-hidden="true"></i>) at the top of the page to open a menu where you can make your font larger or smaller or change background color.{% endhint %}
