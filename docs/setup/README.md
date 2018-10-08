@@ -60,13 +60,7 @@ Revisit the command line worksheet from March:
     - Windows: `C:/Users/<yourUsername>`
   - Command to change folders: `cd <folderToGoTo>`
   - Command to make a folder: `mkdir <newFolder>`
-  - You can also use shortcuts in your CLI for your home directory
-    {% codetabs name="iTerm2", type="bash" -%} 
-cd ~
-   {%- language name="Cmder", type="bash" -%} 
-cd %USERPROFILE%
-   {%- endcodetabs %}
-     
+  - You can also use **~** for Mac or **%USERPROFILE%** for Windows as a shortcut in CLI for your home directory: `cd ~` for Mac and `cd %USERPROFILE%` for Windows.
 {% endhint %}
 
 ### 5. Choose one of four project models

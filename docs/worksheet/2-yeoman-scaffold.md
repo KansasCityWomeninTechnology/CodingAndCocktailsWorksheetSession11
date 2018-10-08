@@ -19,9 +19,9 @@
 5. Choose some fonts from [Google Fonts](https://fonts.google.com/) to use in your project
     
     {% hint style='tip' %}
-If you need some help choosing fonts that look nice together check out [fontpair.co](https://fontpair.co/)
+If you need some help choosing fonts that look nice together check out [fontpair.co](https://fontpair.co/).
 
-Alternatively you can download fonts and add them to the fonts folder within your scaffolded project
+Alternatively you can download fonts and add them to the fonts folder within your scaffolded project.
     {% endhint %}
 
 6. Pick some images related to your theme and save them into the images folder. Some good image sources include:
