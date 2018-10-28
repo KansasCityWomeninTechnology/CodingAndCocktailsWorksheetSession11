@@ -14,7 +14,7 @@ Using [the Single Page Application worksheet](https://bit.ly/CnCOctWork) as a st
 
     1. Add more routes to your application and based on the route, change the category of questions displayed using the [API](https://cocktail-trivia-api.herokuapp.com/)
 
-    2. Add another component for navigation (make sure you add an about page to navigate to!)
+    2. Add another component for navigation (such as an "About" page)
 
     3. Add images to make it more fun!
 

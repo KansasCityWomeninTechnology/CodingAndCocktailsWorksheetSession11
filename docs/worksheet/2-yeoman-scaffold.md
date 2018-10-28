@@ -46,13 +46,12 @@ Alternatively you can download fonts and add them to the fonts folder within you
 
     *   Bring in font-awesome for icons to use ([npmjs.com/package/font-awesome](https://www.npmjs.com/package/font-awesome))
 
-9. Incorporate an image slider ([npmjs.com/package/tiny-slider](https://www.npmjs.com/package/tiny-slider))
-
+    *   Incorporate an image slider ([npmjs.com/package/tiny-slider](https://www.npmjs.com/package/tiny-slider))
     {% hint style='tip' %}
 ##### Need Inspiration?
 
 Check out some examples with configuration settings: 
-[tiny-slider/tests](https://ganlanyuan.github.io/tiny-slider/tests/index.html)
+[tiny-slider/demos](https://ganlanyuan.github.io/tiny-slider/demo/)
     {% endhint %}
 
 10. Add some interactivity (like a button click handler or an effect).
