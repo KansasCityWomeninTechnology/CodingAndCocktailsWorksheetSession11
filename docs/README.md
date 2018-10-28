@@ -1,7 +1,7 @@
 <div>
     <img src="assets/logo.png" style="float: left; margin: 0px 15px 15px 0px; height:125px;">
     <h2 style="display:inline-block;margin-top:1em;">Coding &amp; Cocktails Session 11:</h2>
-    <h3 style="margin-top:0;margin-bottom:2em;">Cocktail Camp Micro-hackathon</h3>
+    <h3 style="margin-top:0;margin-bottom:2em;">CodeJam</h3>
 </div>
 <hr>
 
@@ -9,7 +9,7 @@
 
 Tonight we are working on a team project as you would on a real-world development team. You will have a dedicated mentor who will serve as your technical architect for the night and will help your team build out a project from scratch.
 
-Keep it Simple! Work with your mentor (your team’s technical architect) to break up the tasks into smaller pieces. Make sure you take breaks! Walk around, clear your head. Have fun! This is not a competition.
+Keep it Simple! Work with your mentor to break up the tasks into smaller pieces. Make sure you take breaks! Walk around, clear your head. Have fun! This is not a competition.
 
 
 {% hint style='danger' %}

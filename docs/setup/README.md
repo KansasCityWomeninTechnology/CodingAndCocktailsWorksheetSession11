@@ -1,4 +1,4 @@
-# Setup Instructions
+# Prep Work
 
 {% hint style='danger' %}
 If this is your first time joining us for Coding & Cocktails, you'll want to [install our tools](https://bit.ly/CnCTheTools) before you go any further.
@@ -14,7 +14,7 @@ Continue following the instructions on this page.
 
 If you have a tip that helped you with a step on the worksheet, you can easily share it with the group in Slack. Or if there are any issues with the worksheet [we make typos or there's an update to a tool that we didn't catch before the session], we may post updates in Slack. Plus, after class is over, Slack becomes a tool for you to gain access to mentors as you go through the homework, or any other questions that arise.
 
-### 2. Pick a theme
+### 2. Pick a theme for your project
 
 A theme will help focus your work. This can be anything you can dream up but if you need some inspiration, here are some ideas to get your team talking. You don’t have to limit yourself to these.
 
@@ -29,6 +29,8 @@ A theme will help focus your work. This can be anything you can dream up but if 
 * Build out a bar website with a tasty cocktail menu
 
 * Personal portfolio site for craft projects
+
+* Contribute to an existing open source project
 
 ### 3. Draw a picture of what you want your site to look like
 
@@ -49,7 +51,7 @@ Revisit the version control worksheet: [bit.ly/CnCAprWork](https://bit.ly/CnCApr
 Not sure how to add Git collaborators? [bit.ly/CnCGHCollab](https://bit.ly/CnCGHCollab)
 {% endhint %}
 
-Make sure each team member has the repository cloned to your local device in your CodingAndCocktails folder you created when you worked through the tools document.
+Make sure each team member has the repository cloned to your local device in your "CodingAndCocktails" folder you created when you worked through the tools document.
 
 {% hint style='tip' %}
 #### Command line woes?

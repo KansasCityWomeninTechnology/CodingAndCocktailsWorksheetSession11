@@ -1,4 +1,4 @@
-# Coding & Cocktails Session 11: Cocktail Camp Micro-Hackathon (CodeJam)
+# Coding & Cocktails Session 11: CodeJam (Micro-Hackathon)
 
 The `docs` directory contains worksheets for Coding & Cocktails session 11 published on Gitbooks: [Coding & Cocktails - Session 11: Cocktail Camp Micro-Hackathon](https://legacy.gitbook.com/book/codingandcocktailskc/session-11-cocktail-camp-micro-hackathon/details).
 
