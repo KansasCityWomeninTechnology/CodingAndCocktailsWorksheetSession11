@@ -59,7 +59,7 @@ Revisit the Programming Fundamentals 101 worksheet for an example of a click han
 ##### Need Inspiration?
 
 Check out some examples with configuration settings: 
-[tiny-slider/tests](https://ganlanyuan.github.io/tiny-slider/tests/index.html)
+[tiny-slider/demo](https://ganlanyuan.github.io/tiny-slider/demo/)
     {% endhint %}
 
 11. Feel free to add more pages to your site as well!  Some ideas might include:
