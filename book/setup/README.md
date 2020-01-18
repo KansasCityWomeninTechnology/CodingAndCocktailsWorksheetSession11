@@ -36,60 +36,19 @@ A theme will help focus your work. This can be anything you can dream up but if 
 
 Before you start writing code, you should have an idea of the end game. Draw it out on paper so that your entire team knows what you are working towards. This can be both the look and feel and how the user should interact with and navigate the site, sometimes called a sitemap.
 
-### 4. Set up a GitHub repository
+### 4. Set up a collaboration platform
 
-As a team, create a new GitHub repository.
+As a team, decide on a collaboration platform. We recommend GitHub, a source code management tool (ask your mentor for help!), but you can use whatever you like. 
 
-Add all team members as collaborators on the repository including your mentor/technical architect.
+Add all team members as collaborators on the platform including your mentor/technical architect.
 
-{% hint style='tip' %}
-##### Git to it!
-Revisit the version control worksheet: [bit.ly/CnCAprWork](https://bit.ly/CnCAprWork)
-{% endhint %}
+### 5. Find a template
 
-{% hint style='tip' %}
-Not sure how to add Git collaborators? [bit.ly/CnCGHCollab](https://bit.ly/CnCGHCollab)
-{% endhint %}
-
-Make sure each team member has the repository cloned to your local device in your "CodingAndCocktails" folder you created when you worked through the tools document.
-
-{% hint style='tip' %}
-#### Command line woes?
-Revisit the command line worksheet from March:
-[bit.ly/CnCMarWork](https://bit.ly/CnCMarWork)
-  - Your home directory is:
-    - Mac: `/users/<yourUsername>`
-    - Windows: `C:/Users/<yourUsername>`
-  - Command to change folders: `cd <folderToGoTo>`
-  - Command to make a folder: `mkdir <newFolder>`
-  - You can also use **~** for Mac or **%USERPROFILE%** for Windows as a shortcut in CLI for your home directory: `cd ~` for Mac and `cd %USERPROFILE%` for Windows.
-{% endhint %}
-
-### 5. Choose one of four project models
-
-For more details on how to proceed with each option, view that specific options page in the GitBook.
-
-* **Option 1:** Using a template from [Templated.co](https://templated.co/) as a starting point, download the template and modify and style using HTML and CSS. Add some interactivity with JavaScript too!
-
-* **Option 2:** Use a Yeoman scaffold like the one we used in the Front End Architecture session to build out your site.
-
-  {% hint style='tip' %}
-##### Yeoman to the rescue!
-Revisit the front-end architecture worksheet: [bit.ly/CnCMayWork](https://bit.ly/CnCMayWork)
-  {% endhint %}
-
-* **Option 3:** Build out a single page application similar to the trivia app we built in the session on SPA’s. You could start with the framework of the trivia app from the session worksheet and expand on it, or spin your own!
-
-  {% hint style='tip' %}
-##### Single Page Applications
-Revisit the SPA worksheet: [bit.ly/CnCOctWork](https://bit.ly/CnCOctWork)
-  {% endhint %}
-  
-* **Option 4:** Build out your code portfolio by making a contribution to an Open Source project.  Having this on your resume and the experience working with other developers on an existing project is a great way to show your skills and learn what it's like to be a developer on an existing project!
+Using a template from [Templated.co](https://templated.co/) as a starting point, download the template and modify and style using HTML and CSS. Add some interactivity with JavaScript too!
 
 ### 6. Divvy up the work and start building!
 
-How you divvy up responsibilities is up to your team and what feels comfortable. Ask your mentor/technical architect about pair programming vs. Git collaboration. You will need to start with a GitHub repository for each project no matter what model you’ve chosen. This will make your team collaboration much easier!
+How you divvy up responsibilities is up to your team and what feels comfortable. Ask your mentor/technical architect about pair programming vs. Git collaboration.
 
 <!-- Trick markdown to give a little extra space -->
 ## 

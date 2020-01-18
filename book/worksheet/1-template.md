@@ -1,6 +1,6 @@
 <img src="images/html.png" style="display: block; margin-left: auto; margin-right: auto; height:125px;">
 
-# Option #1: Build a Website from a Template
+# Build a Website from a Template
 
 1. Start here: [Templated.co](https://templated.co)
 
@@ -12,9 +12,9 @@ Mousing over the template offers the option to download
 
 3. Unzip the contents into your local directory.
 
-4. Load these files into the Git repository you created during the prep work and push them up to GitHub so the entire team can work from the same starting point.
+4. Load these files into a source code repository, such as Git (ask your mentor for help), or use a shared folder so the entire team can collaborate.
 
-5. Make sure each team member has the updated repository on their local device.
+5. Make sure each team member has the updated code on their local device.
 
 6. Decide how you want to add to and embellish your site. Divvy up tasks among your team members.
 
@@ -49,8 +49,8 @@ Check out our CSS cheat sheet at the end of the CSS session's worksheet: [coding
     {% hint style='tip' %}
 ##### Looking for a refresher?
 
-Revisit the Programming Fundamentals 101 worksheet for an example of a click handler: 
-[bit.ly/CnCJunWork](https://bit.ly/CnCJunWork)
+Revisit the JavaScript worksheet for an example of a click handler: 
+[bit.ly/cncjavascriptwork](https://bit.ly/cncjavascriptwork)
     {% endhint %}
 
 10. **Extra Credit:** Add a section to your web site that includes an image slider (use the [tiny-slider](https://github.com/ganlanyuan/tiny-slider) library)

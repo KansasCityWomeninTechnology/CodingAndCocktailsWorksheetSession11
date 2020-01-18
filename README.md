@@ -2,15 +2,17 @@
 
 The `docs` directory contains worksheets for Coding & Cocktails session 11 published on Gitbooks: [Coding & Cocktails - Session 11: Cocktail Camp Micro-Hackathon](https://legacy.gitbook.com/book/codingandcocktailskc/session-11-cocktail-camp-micro-hackathon/details).
 
+It is also hosted as a Github page at [https://kansascitywomenintechnology.github.io/CodingAndCocktailsWorksheetSession11/](https://kansascitywomenintechnology.github.io/CodingAndCocktailsWorksheetSession11/)
+
 ## Getting Going
 
 ```bash
 npm install
-npm run docs:install
+npm run book:install
 ```
 
 To serve Gitbook, `npm start`.  
-To build without serving, `npm run docs:build`.
+To build without serving, `npm run book:build`.
 
 ## Associated Repos
 
