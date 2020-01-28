@@ -1,5 +1,9 @@
 {
-  "root": "./docs",
+  "root": "./book",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
   "plugins": [
     "codeblock-label",
     "custom-favicon",
@@ -9,7 +13,7 @@
     "anchors"
   ],
   "pluginsConfig": {
-    "favicon": "docs/assets/favicon.ico",
+    "favicon": "book/assets/favicon.ico",
     "hints": {
       "info": "fa fa-info-circle fa-lg",
       "tip": "fa fa-lightbulb-o fa-lg",

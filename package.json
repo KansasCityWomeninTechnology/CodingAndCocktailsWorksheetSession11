@@ -2,14 +2,15 @@
   "name": "session11",
   "version": "0.0.0",
   "description": "Instructions for Coding & Cocktails program session 11 - CodeJam",
-  "main": "docs/README.md",
+  "main": "book/README.md",
   "directories": {
-    "doc": "docs"
+    "doc": "book"
   },
   "scripts": {
     "docs:install": "gitbook install",
     "docs:build": "gitbook build",
-    "start": "gitbook serve"
+    "start": "gitbook serve",
+    "book:deploy": "npm run book:build && rimraf docs && mkdirp docs && copyfiles -u 1 \"./_book/**/!(*.md)\" docs"
   },
   "repository": {
     "type": "git",
@@ -21,9 +22,6 @@
     "url": "https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetSession11/issues"
   },
   "homepage": "https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetSession11#readme",
-  "devDependencies": {
-    "gitbook-cli": "^2.3.2"
-  },
   "dependencies": {
     "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-codeblock-label": "^1.0.1",
@@ -31,5 +29,11 @@
     "gitbook-plugin-custom-favicon": "0.0.4",
     "gitbook-plugin-hints": "^1.0.2",
     "gitbook-plugin-sectionx": "^3.1.0"
+  },
+  "devDependencies": {
+    "copyfiles": "^2.1.0",
+    "gitbook-cli": "^2.3.2",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
   }
 }
