@@ -7,8 +7,8 @@
     "doc": "book"
   },
   "scripts": {
-    "docs:install": "gitbook install",
-    "docs:build": "gitbook build",
+    "book:install": "gitbook install",
+    "book:build": "gitbook build",
     "start": "gitbook serve",
     "book:deploy": "npm run book:build && rimraf docs && mkdirp docs && copyfiles -u 1 \"./_book/**/!(*.md)\" docs"
   },
